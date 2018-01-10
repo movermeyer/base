@@ -75,7 +75,7 @@ setup(
     #    README.rst
     author='The Cloudmesh Team',
     author_email='laszewski@gmail.com',
-    url='http://github.org/cloudmesh/base',
+    url='https://github.com/cloudmesh/base',
     classifiers=[
         'Intended Audience :: Developers',
         'Intended Audience :: Education',
